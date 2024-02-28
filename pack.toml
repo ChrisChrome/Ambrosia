@@ -1,0 +1,12 @@
+name = "Ambrosia gates"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f187f96f8e7cf1f1d986aff7c9e8934049f0a3aa473fb4ccd829a2bc0210e774"
+
+[versions]
+forge = "43.3.8"
+minecraft = "1.19.2"
